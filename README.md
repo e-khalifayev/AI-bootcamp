@@ -1,1 +1,1 @@
-This repository is a small portfolio of using 
+A portfolio of ten machine leaerning / deep learning projects from the early 2022. Implementaion of foundational algorithms of the classic optimization algortihms (linear, logistic regressions) text and image processing (TF-IDF, Naive-Bayes, landmark face detection, MNIST) and artifficial neural network. Most are implemented from scratch.
